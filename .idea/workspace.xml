@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6a1e31a-3d5f-4721-9f06-247837beacc1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../IA-transcricao-de-audio/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../image-distortion-classification/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../image-distortion-classification/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../image-distortion-classification/distortions/_init_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../image-distortion-classification/distortions/color_conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../image-distortion-classification/distortions/crop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../image-distortion-classification/distortions/noise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../image-distortion-classification/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../image-distortion-classification/models/_init_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../image-distortion-classification/models/resnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../image-distortion-classification/notebooks/experiment.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../image-distortion-classification/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../image-distortion-classification/utils/_init_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../image-distortion-classification/utils/image_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splinny-splening-app-IA-Recommendation/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splinny-splening-app/eas.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../splinny-splening/eas.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portifolio/thelipesousa.github.io" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2oTYlho1sYIXgekPEn1kCZH4vVK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.index.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/felti/Projetos/splinny-splening-backend-IA",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
+        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6a1e31a-3d5f-4721-9f06-247837beacc1" name="Changes" comment="" />
+      <created>1730895186325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730895186325</updated>
+      <workItem from="1730895187790" duration="1631000" />
+      <workItem from="1731332096787" duration="29000" />
+      <workItem from="1731418437818" duration="4475000" />
+      <workItem from="1731424363204" duration="3343000" />
+      <workItem from="1731495300960" duration="5439000" />
+      <workItem from="1731591250132" duration="16146000" />
+      <workItem from="1731690831161" duration="74000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/splinny_splening_backend_IA$index.coverage" NAME="index Coverage Results" MODIFIED="1731624820191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
